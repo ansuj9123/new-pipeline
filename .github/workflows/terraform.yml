@@ -2,7 +2,7 @@ name: Terraform Azure Sandpit (env)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "ansu-terraform" ]
   workflow_dispatch:
 
 permissions:

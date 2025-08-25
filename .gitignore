@@ -3,8 +3,8 @@ git status# Terraform
 *.tfstate.*
 .terraform/
 .terraform.lock.hcl
-*.tfvars
-!environments/*.tfvars
+
+
 
 # OS
 .DS_Store
